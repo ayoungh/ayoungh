@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My personal github stats](https://github-readme-stats.vercel.app/api?username=ayoungh)](https://github.com/anuraghazra/github-readme-stats)[![My work github stats](https://github-readme-stats.vercel.app/api?username=ayoungharrys)](https://github.com/anuraghazra/github-readme-stats)
+[![My personal github stats](https://github-readme-stats.vercel.app/api?username=ayoungh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![My work github stats](https://github-readme-stats.vercel.app/api?username=ayoungharrys&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ayoungh/ayoungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
