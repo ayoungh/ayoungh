@@ -4,7 +4,8 @@
 [![My personal github stats](https://github-readme-stats.vercel.app/api?username=ayoungh&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🪒  I’m currently working at Harrys Grooming. Check out some my stats on my work Github account:
+## 🪒  I’m currently working at Harrys Grooming. 
+### Check out some my stats on my work Github account:
 
 [![My work github stats](https://github-readme-stats.vercel.app/api?username=ayoungharrys&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
