@@ -10,7 +10,7 @@
 [![My personal github stats](https://github-readme-stats.vercel.app/api?username=ayoungh&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🪒  I’m currently working at Harry's. 🪒 
+## 🪒  Previously at Harry's. 🪒 
 
 ------------------------------------------------------
 
