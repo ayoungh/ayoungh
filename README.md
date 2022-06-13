@@ -12,13 +12,6 @@
 
 ## 🪒  Previously at Harry's. 🪒 
 
-------------------------------------------------------
-
-
-Check out some my stats on my work Github account:
-
-[![My work github stats](https://github-readme-stats.vercel.app/api?username=ayoungharrys&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 You can find me everywhere online via the  ✨ ayoungh ✨ handle.
 
 
